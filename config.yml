@@ -1,0 +1,10 @@
+db:
+  #~ host: "TJ82SZPJ"
+  #~ database: XX2012
+  #~ username: sa
+  #~ password: sasasasa
+  host: "192.168.199.128"
+  database: XX2012
+  username: sa
+  password: naominaomi
+ 
